@@ -1,2 +1,2 @@
-# Prueba1
+# Programacion
 Prueba de repositorio para programacion
